@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 
-### I am seeking opportunities to begin my career as a junior software developer. With a solid foundation in JavaScript, CSS, HTML, Debugging etc. I am eager to learn and develop my skills while working collaboratively with a team.
+I am an experienced professional specializing in RPG programming and seeking roles where I can leverage my expertise in RPG, IBM i, and software development. With a strong foundation in RPG, I am adept at designing and maintaining user-friendly interfaces, optimizing system performance, and ensuring seamless integration across platforms. My background also includes proficiency in administrative tasks, customer service, and a recent focus on sales techniques. Detail-oriented and organized, I excel in multitasking within fast-paced environments and am eager to apply my diverse skills to support and enhance a dynamic organization.
 
-### As a junior software developer without experience, I am open to guidance and feedback from senior developers and team leads. I am excited to take on tasks such as debugging code, testing software, and documenting code changes. I am also eager to contribute to maintaining existing code and fixing bugs.
-
-### In addition to my technical skills, I have excellent communication skills and a willingness to learn and grow as a developer. I am comfortable using various tools and technologies related to software development and am committed to staying up-to-date with emerging trends and technologies.
-
-
-
-
-### You can checkout my repositories for the projects I've worked on.
+In addition to my technical expertise, I possess excellent communication skills and a strong commitment to continuous learning. I am comfortable with a variety of tools and technologies related to software development, customer service, and sales, and I stay up-to-date with emerging trends to ensure the solutions I provide are both innovative and effective.
